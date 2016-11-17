@@ -1,0 +1,1 @@
+LOCAL_PATH := vendor/samsung/fortunave3g/proprietary
