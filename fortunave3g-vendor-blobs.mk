@@ -32,12 +32,12 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
 	$(LOCAL_PATH)/vendor/lib/libactuator_dw9804_rossa_camcorder.so:system/vendor/lib/libactuator_dw9804_rossa_camcorder.so \
 	$(LOCAL_PATH)/vendor/lib/libactuator_dw9804_rossa_camera.so:system/vendor/lib/libactuator_dw9804_rossa_camera.so \
-	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_common:system/vendor/lib/libchromatix_sr544_common \
-	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_preview:system/vendor/lib/libchromatix_sr544_preview \
-	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_zslshot:system/vendor/lib/libchromatix_sr544_zslshot \
-	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_panorama:system/vendor/lib/libchromatix_sr544_panorama \
-	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_snapshot:system/vendor/lib/libchromatix_sr544_snapshot \
-	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_default_video:system/vendor/lib/libchromatix_sr544_default_video \
+	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_common.so:system/vendor/lib/libchromatix_sr544_common.so \
+	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_preview.so:system/vendor/lib/libchromatix_sr544_preview.so \
+	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_zslshot.so:system/vendor/lib/libchromatix_sr544_zslshot.so \
+	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_panorama.so:system/vendor/lib/libchromatix_sr544_panorama.so \
+	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_snapshot.so:system/vendor/lib/libchromatix_sr544_snapshot.so \
+	$(LOCAL_PATH)/vendor/lib/libchromatix_sr544_default_video.so:system/vendor/lib/libchromatix_sr544_default_video.so \
 	$(LOCAL_PATH)/vendor/lib/libmmcamera2_is.so:system/vendor/lib/libmmcamera2_is.so \
 	$(LOCAL_PATH)/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
 	$(LOCAL_PATH)/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
