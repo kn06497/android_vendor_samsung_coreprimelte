@@ -64,9 +64,9 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
 	$(LOCAL_PATH)/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
 	$(LOCAL_PATH)/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-	$(LOCAL_PATH)/etc/A05QF_sr544_module_info.xmlsystem/etc/A05QF_sr544_module_info.xml \
-	$(LOCAL_PATH)/etc/B05QF_sr544_module_info.xmlsystem/etc/B05QF_sr544_module_info.xml \
-	$(LOCAL_PATH)/etc/C05QF_sr544_module_info.xmlsystem/etc/C05QF_sr544_module_info.xml \
+	$(LOCAL_PATH)/etc/A05QF_sr544_module_info.xml:system/etc/A05QF_sr544_module_info.xml \
+	$(LOCAL_PATH)/etc/B05QF_sr544_module_info.xml:system/etc/B05QF_sr544_module_info.xml \
+	$(LOCAL_PATH)/etc/C05QF_sr544_module_info.xml:system/etc/C05QF_sr544_module_info.xml \
 	$(LOCAL_PATH)/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
 	$(LOCAL_PATH)/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv
 	
