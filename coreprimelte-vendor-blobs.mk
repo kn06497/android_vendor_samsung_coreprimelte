@@ -1,4 +1,4 @@
-LOCAL_PATH := vendor/samsung/fortunave3g/proprietary
+LOCAL_PATH := vendor/samsung/coreprimelte/proprietary
 
 # RIL
 PRODUCT_COPY_FILES += \

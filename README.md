@@ -1,2 +1,2 @@
-# android_vendor_samsung_fortunave3g
-Proprietary vendor blobs for Samsung Grand Prime SM-G530H (XCU)
+# android_vendor_samsung_coreprimelte
+Proprietary vendor blobs for Samsung Core Prime
